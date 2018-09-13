@@ -18,7 +18,7 @@ Please feel free to use/modify them, any bug report or improvement suggestion wi
 
 -   Image-to-Image translation / Cross-domain image generation
 
-    With domain invariant representation, domain vector and unified decoder, UFDN is able to perform (a) continuious image translation across different domains and/or attributes at interest (b) image generation across different domains.
+    With domain invariant representation, domain vector and unified decoder, UFDN is able to perform (a) continuous image translation across different domains and/or attributes at interest (b) image generation across different domains.
 ![](log/translation.jpg)
 
 -   Unsupervised domain adaption (UDA)
